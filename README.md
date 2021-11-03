@@ -14,7 +14,12 @@ Comenzaremos por eliminar todos los archivos correspondientes al fichero `./src/
 
 ### Preview de la Calculadora:
 
-<img src="https://www.dropbox.com/s/fn9q9tylug6z4wo/Captura%20de%20pantalla%202021-11-03%20124100.png?dl=1">
+<img
+src="https://www.dropbox.com/s/fn9q9tylug6z4wo/Captura%20de%20pantalla%202021-11-03%20124100.png?dl=1"
+raw=true
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
 
 
 
