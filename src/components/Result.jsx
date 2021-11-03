@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Result = (props) => {
-
     console.log('Result render', props)
     return (
         <div className="result">
